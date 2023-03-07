@@ -5,5 +5,6 @@ public class Class1
     {
         var a = new component_a.Class1();
         // comment  1
+        // comment 2
     }
 }
