@@ -3,3 +3,4 @@ var b = new component_b.Class1();
 var b1 = new component_b1.Class1();
 Console.WriteLine("Hello, World!");
 // comment 1
+// comment 2
